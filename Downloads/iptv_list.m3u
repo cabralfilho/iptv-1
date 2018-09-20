@@ -31406,13 +31406,13 @@ http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Dusya
 http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="+INFO",* Fluxus IPTV
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",+ Like Us!
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="+INFO",+ Like Us!
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rR1Lgwg.png" group-title="INFO",> Free Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rR1Lgwg.png" group-title="+INFO",> Free Entertainment
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Sep.20.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="+INFO",= SEP-20-2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
@@ -43865,13 +43865,2315 @@ https://ams.tvizlehd.com/live/1antv/playlist.m3u8
 #EXTINF:0,ARD -- 
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8?sd=10&rebase=on
 #EXTM3U
-#EXTINF:0 group-title="(MX) Mexico",XARXA | SD (MX)
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:0 group-title="(PL) Poland",CANAL | HD (PL)
-http://stars.managercw.com:8000/live/POLAND/POLAND/1991.ts
-#EXTINF:0 group-title="(US) United States",VICTORY TELEVISION NETWORK | SD (US)
-http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:0 group-title="(AL) Albania",EX-YU | SD (AL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4690.ts
+#EXTINF:0 group-title="(AR) Arabia",2 AL HAYAT | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7501.ts
+#EXTINF:0 group-title="(AR) Arabia",2-AFLAM | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5327.ts
+#EXTINF:0 group-title="(AR) Arabia",2M MAROC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/909.ts
+#EXTINF:0 group-title="(AR) Arabia",2M-MAROC | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2590.ts
+#EXTINF:0 group-title="(AR) Arabia",4G AFLAM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/111.ts
+#EXTINF:0 group-title="(AR) Arabia",4G CLASSIC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/109.ts
+#EXTINF:0 group-title="(AR) Arabia",4G DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/68.ts
+#EXTINF:0 group-title="(AR) Arabia",4G FILM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/63.ts
+#EXTINF:0 group-title="(AR) Arabia",7BESHA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/197.ts
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5339.ts
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/26.ts
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI DRAMA (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5340.ts
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI EMARAT | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5341.ts
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1964.ts
+#EXTINF:0 group-title="(AR) Arabia",ADALEMARAT | HD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2085.ts
+#EXTINF:0 group-title="(AR) Arabia",ADDOUNIA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1656.ts
+#EXTINF:0 group-title="(AR) Arabia",AFAK | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/522.ts
+#EXTINF:0 group-title="(AR) Arabia",AGHANI AGHANI | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/762.ts
+#EXTINF:0 group-title="(AR) Arabia",AGHAPY TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1005.ts
+#EXTINF:0 group-title="(AR) Arabia",AHEL AL | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1640.ts
+#EXTINF:0 group-title="(AR) Arabia",AJIAL | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/983.ts
+#EXTINF:0 group-title="(AR) Arabia",AJYAL TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7496.ts
+#EXTINF:0 group-title="(AR) Arabia",AL AFASY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/147.ts
+#EXTINF:0 group-title="(AR) Arabia",AL AHD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/131.ts
+#EXTINF:0 group-title="(AR) Arabia",AL AHLY CLUB | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/992.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ALAM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/894.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ALHADATH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/911.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ANWAR | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/95.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ANWAR 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/146.ts
+#EXTINF:0 group-title="(AR) Arabia",AL AQILA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1624.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ASSEMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1739.ts
+#EXTINF:0 group-title="(AR) Arabia",AL AWHAD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2623.ts
+#EXTINF:0 group-title="(AR) Arabia",AL BASIRA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1750.ts
+#EXTINF:0 group-title="(AR) Arabia",AL EIMAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/203.ts
+#EXTINF:0 group-title="(AR) Arabia",AL EKHBARIYA AL SORIYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1825.ts
+#EXTINF:0 group-title="(AR) Arabia",AL EMARAT | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1686.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ESHRAQ | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2114.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ETEJAH TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1000.ts
+#EXTINF:0 group-title="(AR) Arabia",AL FADY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1766.ts
+#EXTINF:0 group-title="(AR) Arabia",AL FADY TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7503.ts
+#EXTINF:0 group-title="(AR) Arabia",AL FALISTINIAH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/52.ts
+#EXTINF:0 group-title="(AR) Arabia",AL FATH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1707.ts
+#EXTINF:0 group-title="(AR) Arabia",AL FORAT 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1718.ts
+#EXTINF:0 group-title="(AR) Arabia",AL HAYAT 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1606.ts
+#EXTINF:0 group-title="(AR) Arabia",AL HAYAT 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2098.ts
+#EXTINF:0 group-title="(AR) Arabia",AL HAYAT MUSALSALAT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/57.ts
+#EXTINF:0 group-title="(AR) Arabia",AL HAYAT WE ALNAS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2101.ts
+#EXTINF:0 group-title="(AR) Arabia",AL HIWAR ETTOUNSI TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1727.ts
+#EXTINF:0 group-title="(AR) Arabia",AL HORREYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/220.ts
+#EXTINF:0 group-title="(AR) Arabia",AL HURRA IRAQ | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/269.ts
+#EXTINF:0 group-title="(AR) Arabia",AL HURRA IRAQ (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2948.ts
+#EXTINF:0 group-title="(AR) Arabia",AL IMAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/125.ts
+#EXTINF:0 group-title="(AR) Arabia",AL INSEN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1726.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ISTIQAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/986.ts
+#EXTINF:0 group-title="(AR) Arabia",AL JADEED | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/6.ts
+#EXTINF:0 group-title="(AR) Arabia",AL JAZEERA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/120.ts
+#EXTINF:0 group-title="(AR) Arabia",AL JAZEERA DOCUMENTARY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/123.ts
+#EXTINF:0 group-title="(AR) Arabia",AL JAZEERA MUBASHER | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/121.ts
+#EXTINF:0 group-title="(AR) Arabia",AL KAHERA WAL NAS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1679.ts
+#EXTINF:0 group-title="(AR) Arabia",AL KAHERA WAL NAS 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/209.ts
+#EXTINF:0 group-title="(AR) Arabia",AL KARMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1668.ts
+#EXTINF:0 group-title="(AR) Arabia",AL KASS 4 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1877.ts
+#EXTINF:0 group-title="(AR) Arabia",AL KASS ONE | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/176.ts
+#EXTINF:0 group-title="(AR) Arabia",AL KAWTHAR | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1814.ts
+#EXTINF:0 group-title="(AR) Arabia",AL KOFIYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/988.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAAREF | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/226.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAGHARIBIA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/75.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAGHARIBIA 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1593.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAGHARIBIATWO | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3781.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAGHRABIA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3780.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAGHRIBIA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2597.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAGHRIBIA EKHBARIYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/285.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1760.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD 2 HOLY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/981.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD 3 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1660.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD 4 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1597.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAJLIS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1982.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MALAKOOT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1769.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MANAR | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3779.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MANAR TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/7.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MASIRA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2067.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MASRIYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1681.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MASSAR AL OULA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/900.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAWSLEYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1819.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MAYADEEN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/145.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MUSTAKILA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2129.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NABAA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1589.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NADA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1789.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NAEEM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1619.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NAHAR | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/243.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NAHAR ALYAWM | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3778.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NAHAR DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/244.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NAHAR DRAMA (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3776.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NAJAF | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1716.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NOUJABA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/995.ts
+#EXTINF:0 group-title="(AR) Arabia",AL QUDS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/227.ts
+#EXTINF:0 group-title="(AR) Arabia",AL RAFIDEN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1662.ts
+#EXTINF:0 group-title="(AR) Arabia",AL RASHEED | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/87.ts
+#EXTINF:0 group-title="(AR) Arabia",AL RAY QATAR | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7737.ts
+#EXTINF:0 group-title="(AR) Arabia",AL RESALA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1673.ts
+#EXTINF:0 group-title="(AR) Arabia",AL RESALAH | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3774.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SAEEDAH TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1690.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SAHA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1808.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SAHRAA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/103.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SEHA WALJAMAL TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1592.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SHAREYYAH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/912.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SHARQ | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/997.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SHARQIA TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2945.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SHARQIYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/257.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SIRAT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1684.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SUMARIA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/8.ts
+#EXTINF:0 group-title="(AR) Arabia",AL TAGHIER | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/999.ts
+#EXTINF:0 group-title="(AR) Arabia",AL TANASUH TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1590.ts
+#EXTINF:0 group-title="(AR) Arabia",AL THAQAFIYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1609.ts
+#EXTINF:0 group-title="(AR) Arabia",AL THAQALAYN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1802.ts
+#EXTINF:0 group-title="(AR) Arabia",AL TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1742.ts
+#EXTINF:0 group-title="(AR) Arabia",AL WELAYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2271.ts
+#EXTINF:0 group-title="(AR) Arabia",AL-OULA-MAROC | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5473.ts
+#EXTINF:0 group-title="(AR) Arabia",ALAAN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/316.ts
+#EXTINF:0 group-title="(AR) Arabia",ALARABIYA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1982.ts
+#EXTINF:0 group-title="(AR) Arabia",ALARABYA ALHADATH | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7740.ts
+#EXTINF:0 group-title="(AR) Arabia",ALBAGHDADIA 1 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2949.ts
+#EXTINF:0 group-title="(AR) Arabia",ALBASRA IRAQ | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2943.ts
+#EXTINF:0 group-title="(AR) Arabia",ALGERIA TV 4 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/264.ts
+#EXTINF:0 group-title="(AR) Arabia",ALGERIE 3 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/20.ts
+#EXTINF:0 group-title="(AR) Arabia",ALGERIE 3 (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2607.ts
+#EXTINF:0 group-title="(AR) Arabia",ALGERIE 5 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1836.ts
+#EXTINF:0 group-title="(AR) Arabia",ALGHADEER | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/119.ts
+#EXTINF:0 group-title="(AR) Arabia",ALHADDAF | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2609.ts
+#EXTINF:0 group-title="(AR) Arabia",ALJADEED LIVE | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2610.ts
+#EXTINF:0 group-title="(AR) Arabia",ALJADID | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3549.ts
+#EXTINF:0 group-title="(AR) Arabia",ALJAZEERA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1980.ts
+#EXTINF:0 group-title="(AR) Arabia",ALJAZEERA-MUBASHER | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1981.ts
+#EXTINF:0 group-title="(AR) Arabia",ALKASS 1 | HD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1910.ts
+#EXTINF:0 group-title="(AR) Arabia",ALKASS 2 | HD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1911.ts
+#EXTINF:0 group-title="(AR) Arabia",ALKASS 4HD | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1891.ts
+#EXTINF:0 group-title="(AR) Arabia",ALMAGHRIBIA-MAROC | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2593.ts
+#EXTINF:0 group-title="(AR) Arabia",ALMANAR | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2932.ts
+#EXTINF:0 group-title="(AR) Arabia",ALNAS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/360.ts
+#EXTINF:0 group-title="(AR) Arabia",ALOSTORA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1794.ts
+#EXTINF:0 group-title="(AR) Arabia",ALRAYAN QAT | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7738.ts
+#EXTINF:0 group-title="(AR) Arabia",ALTHANYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/248.ts
+#EXTINF:0 group-title="(AR) Arabia",ANN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1725.ts
+#EXTINF:0 group-title="(AR) Arabia",ARABICA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/381.ts
+#EXTINF:0 group-title="(AR) Arabia",ARRABIAA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1966.ts
+#EXTINF:0 group-title="(AR) Arabia",ARRIADIA MAROC | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2051.ts
+#EXTINF:0 group-title="(AR) Arabia",ARRYADIA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/763.ts
+#EXTINF:0 group-title="(AR) Arabia",ART AFLAM 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/738.ts
+#EXTINF:0 group-title="(AR) Arabia",ART AFLAM 1 (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5186.ts
+#EXTINF:0 group-title="(AR) Arabia",ART AFLAM 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/734.ts
+#EXTINF:0 group-title="(AR) Arabia",ART AFLAM 2 (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5187.ts
+#EXTINF:0 group-title="(AR) Arabia",ART HEKAYAT 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/737.ts
+#EXTINF:0 group-title="(AR) Arabia",ART HEKAYAT 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/736.ts
+#EXTINF:0 group-title="(AR) Arabia",ART HEKAYAT 2 (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5200.ts
+#EXTINF:0 group-title="(AR) Arabia",ASHROOQ TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/272.ts
+#EXTINF:0 group-title="(AR) Arabia",ASSADISA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2125.ts
+#EXTINF:0 group-title="(AR) Arabia",ASSADISSA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2588.ts
+#EXTINF:0 group-title="(AR) Arabia",ATFAL MAWAHEB | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2001.ts
+#EXTINF:0 group-title="(AR) Arabia",ATTESIA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2102.ts
+#EXTINF:0 group-title="(AR) Arabia",AZHARI | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/238.ts
+#EXTINF:0 group-title="(AR) Arabia",B4U AFLAM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/53.ts
+#EXTINF:0 group-title="(AR) Arabia",BAHRAIN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1596.ts
+#EXTINF:0 group-title="(AR) Arabia",BAHRAIN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1746.ts
+#EXTINF:0 group-title="(AR) Arabia",BARAEM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/265.ts
+#EXTINF:0 group-title="(AR) Arabia",BELADY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1603.ts
+#EXTINF:0 group-title="(AR) Arabia",BELODY AFLAM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/255.ts
+#EXTINF:0 group-title="(AR) Arabia",BELQEES TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1704.ts
+#EXTINF:0 group-title="(AR) Arabia",BEUR TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1648.ts
+#EXTINF:0 group-title="(AR) Arabia",BIN OTHAIMEEN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1591.ts
+#EXTINF:0 group-title="(AR) Arabia",BLUE NILE CHANNEL | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1700.ts
+#EXTINF:0 group-title="(AR) Arabia",CAIRO DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/182.ts
+#EXTINF:0 group-title="(AR) Arabia",CAIRODRAMA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5329.ts
+#EXTINF:0 group-title="(AR) Arabia",CANAL ALGERIE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1604.ts
+#EXTINF:0 group-title="(AR) Arabia",CARTON NETWORK | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2939.ts
+#EXTINF:0 group-title="(AR) Arabia",CHANNEL 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/10.ts
+#EXTINF:0 group-title="(AR) Arabia",CHANNEL 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1006.ts
+#EXTINF:0 group-title="(AR) Arabia",CIMA 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1698.ts
+#EXTINF:0 group-title="(AR) Arabia",CIMA ALIBABA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/61.ts
+#EXTINF:0 group-title="(AR) Arabia",CIMA TUBE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1798.ts
+#EXTINF:0 group-title="(AR) Arabia",CNA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1580.ts
+#EXTINF:0 group-title="(AR) Arabia",DABANGA SUDAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1642.ts
+#EXTINF:0 group-title="(AR) Arabia",DAWAA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1013.ts
+#EXTINF:0 group-title="(AR) Arabia",DEWAN 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1001.ts
+#EXTINF:0 group-title="(AR) Arabia",DIJLA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1708.ts
+#EXTINF:0 group-title="(AR) Arabia",DMC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/892.ts
+#EXTINF:0 group-title="(AR) Arabia",DMC DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1828.ts
+#EXTINF:0 group-title="(AR) Arabia",DORAR TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1792.ts
+#EXTINF:0 group-title="(AR) Arabia",DREAM 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/299.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI DRAMA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2142.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI ONE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/249.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI ONE (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2140.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/252.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI TV (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1932.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI ZAMAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1713.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI ZAMAN (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2141.ts
+#EXTINF:0 group-title="(AR) Arabia",DW TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1689.ts
+#EXTINF:0 group-title="(AR) Arabia",DZAIR TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2613.ts
+#EXTINF:0 group-title="(AR) Arabia",ECHOROUK BENNA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1812.ts
+#EXTINF:0 group-title="(AR) Arabia",ECHOUROUK TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/317.ts
+#EXTINF:0 group-title="(AR) Arabia",ECHOUROUKTV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2611.ts
+#EXTINF:0 group-title="(AR) Arabia",EL BILAD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1834.ts
+#EXTINF:0 group-title="(AR) Arabia",EL HEDDAF TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/320.ts
+#EXTINF:0 group-title="(AR) Arabia",ELDJAZAIRIA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2606.ts
+#EXTINF:0 group-title="(AR) Arabia",ELMOLED | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/210.ts
+#EXTINF:0 group-title="(AR) Arabia",ENNAHAR LAKI | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/760.ts
+#EXTINF:0 group-title="(AR) Arabia",ENNAHAR TV ALGERIE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/39.ts
+#EXTINF:0 group-title="(AR) Arabia",ETTOUNSIA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2601.ts
+#EXTINF:0 group-title="(AR) Arabia",FALLUJAH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1999.ts
+#EXTINF:0 group-title="(AR) Arabia",FILM TUBE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1799.ts
+#EXTINF:0 group-title="(AR) Arabia",FIRST TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2600.ts
+#EXTINF:0 group-title="(AR) Arabia",FRANCE24 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1975.ts
+#EXTINF:0 group-title="(AR) Arabia",FREE TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1809.ts
+#EXTINF:0 group-title="(AR) Arabia",FUNOON TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/298.ts
+#EXTINF:0 group-title="(AR) Arabia",HALA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/998.ts
+#EXTINF:0 group-title="(AR) Arabia",HALABA STRET | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1796.ts
+#EXTINF:0 group-title="(AR) Arabia",HANNIBAL | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/4.ts
+#EXTINF:0 group-title="(AR) Arabia",HANNIBAL TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2596.ts
+#EXTINF:0 group-title="(AR) Arabia",HAWACOM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/128.ts
+#EXTINF:0 group-title="(AR) Arabia",HOD HOD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1729.ts
+#EXTINF:0 group-title="(AR) Arabia",HONA BAGHDAD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1649.ts
+#EXTINF:0 group-title="(AR) Arabia",HUDA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/208.ts
+#EXTINF:0 group-title="(AR) Arabia",IFILM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1634.ts
+#EXTINF:0 group-title="(AR) Arabia",IQRAA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/332.ts
+#EXTINF:0 group-title="(AR) Arabia",IRA IRIB | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1544.ts
+#EXTINF:0 group-title="(AR) Arabia",IRAQ FUTURE | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2940.ts
+#EXTINF:0 group-title="(AR) Arabia",IRAQ FUTURE TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/896.ts
+#EXTINF:0 group-title="(AR) Arabia",IRAQ TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2942.ts
+#EXTINF:0 group-title="(AR) Arabia",ISHTAR TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/195.ts
+#EXTINF:0 group-title="(AR) Arabia",JORDAN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1699.ts
+#EXTINF:0 group-title="(AR) Arabia",KARAMEESH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/222.ts
+#EXTINF:0 group-title="(AR) Arabia",KARBALA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1002.ts
+#EXTINF:0 group-title="(AR) Arabia",KBCALGERIA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2608.ts
+#EXTINF:0 group-title="(AR) Arabia",KOKKY TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1665.ts
+#EXTINF:0 group-title="(AR) Arabia",KOOGI TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2107.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT TV 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1687.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT TV AL ARABI | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2091.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT TV ETHRAA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2092.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT TV2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1801.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT-1 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5319.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT-2 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5318.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT-ALARABI | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5317.ts
+#EXTINF:0 group-title="(AR) Arabia",LANA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2288.ts
+#EXTINF:0 group-title="(AR) Arabia",LBC | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/179.ts
+#EXTINF:0 group-title="(AR) Arabia",LBC | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2936.ts
+#EXTINF:0 group-title="(AR) Arabia",LDC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/277.ts
+#EXTINF:0 group-title="(AR) Arabia",LDC (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2937.ts
+#EXTINF:0 group-title="(AR) Arabia",LEBANON | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2934.ts
+#EXTINF:0 group-title="(AR) Arabia",LEBANON TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1709.ts
+#EXTINF:0 group-title="(AR) Arabia",LIBYA ALHRAR | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1004.ts
+#EXTINF:0 group-title="(AR) Arabia",LIBYA PANORAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/115.ts
+#EXTINF:0 group-title="(AR) Arabia",LIBYA RSMIA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1672.ts
+#EXTINF:0 group-title="(AR) Arabia",LIBYA218 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1823.ts
+#EXTINF:0 group-title="(AR) Arabia",LOGOS TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1767.ts
+#EXTINF:0 group-title="(AR) Arabia",LTC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1702.ts
+#EXTINF:0 group-title="(AR) Arabia",MAAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1818.ts
+#EXTINF:0 group-title="(AR) Arabia",MAJAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1676.ts
+#EXTINF:0 group-title="(AR) Arabia",MAKKAH TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1045.ts
+#EXTINF:0 group-title="(AR) Arabia",MARIAM TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1770.ts
+#EXTINF:0 group-title="(AR) Arabia",MASPERO ZAMAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/191.ts
+#EXTINF:0 group-title="(AR) Arabia",MAZZIKA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/306.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 1 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1969.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 1 (1+) | HD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3232.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/158.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 2 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1970.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/160.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 2 (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1643.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 3 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1971.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 3 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/161.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 3 (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1642.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 4 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1972.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 4 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/159.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 4 (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1641.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC ACTION | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1652.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC ACTION | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/163.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC ACTION (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1640.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC BOLLYWOOD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/164.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC BOLLYWOOD (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1639.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC DRAMA | HD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5201.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/162.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC DRAMA (1+) | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/706.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC MASR | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/166.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC MASR 1 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1907.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC MASR 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/157.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC MASR 2 (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1908.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC MAX | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1617.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC MAX | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/165.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC MAX (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1909.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC VARIETY | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2077.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC-DRAMA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1644.ts
+#EXTINF:0 group-title="(AR) Arabia",MEDI 1 SAT | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2052.ts
+#EXTINF:0 group-title="(AR) Arabia",MEDI 1 TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/328.ts
+#EXTINF:0 group-title="(AR) Arabia",MEHWER TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/286.ts
+#EXTINF:0 group-title="(AR) Arabia",MEKAMELEEN 1 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2605.ts
+#EXTINF:0 group-title="(AR) Arabia",MEKAMELEEN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1701.ts
+#EXTINF:0 group-title="(AR) Arabia",MESAT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1671.ts
+#EXTINF:0 group-title="(AR) Arabia",MICKEY CHANNEL | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/101.ts
+#EXTINF:0 group-title="(AR) Arabia",MISR EDUCATION | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/142.ts
+#EXTINF:0 group-title="(AR) Arabia",MISR EL BALAD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/897.ts
+#EXTINF:0 group-title="(AR) Arabia",MOGACOMEDY | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5325.ts
+#EXTINF:0 group-title="(AR) Arabia",MTUNISIA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/199.ts
+#EXTINF:0 group-title="(AR) Arabia",NATIONAL GEO ABUT DHABI | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1892.ts
+#EXTINF:0 group-title="(AR) Arabia",NATIONAL GEOGRAPHIC ABU DHABI | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/29.ts
+#EXTINF:0 group-title="(AR) Arabia",NATIONAL2 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2599.ts
+#EXTINF:0 group-title="(AR) Arabia",NBN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1659.ts
+#EXTINF:0 group-title="(AR) Arabia",NBN (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2938.ts
+#EXTINF:0 group-title="(AR) Arabia",NESSMA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/21.ts
+#EXTINF:0 group-title="(AR) Arabia",NESSMATV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2595.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE COMEDY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/291.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE CULTURE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/295.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/293.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE LIFE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/292.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE LIFE (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1896.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/979.ts
+#EXTINF:0 group-title="(AR) Arabia",NOOR DUBAI | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/23.ts
+#EXTINF:0 group-title="(AR) Arabia",NOUR EL SHAM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1621.ts
+#EXTINF:0 group-title="(AR) Arabia",NOUR KODDASS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1768.ts
+#EXTINF:0 group-title="(AR) Arabia",NOURSAT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1817.ts
+#EXTINF:0 group-title="(AR) Arabia",NOURSAT AL SHABAB | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1816.ts
+#EXTINF:0 group-title="(AR) Arabia",OMAN LIVE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1715.ts
+#EXTINF:0 group-title="(AR) Arabia",OMAN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2274.ts
+#EXTINF:0 group-title="(AR) Arabia",OMAN TV CULTURE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2275.ts
+#EXTINF:0 group-title="(AR) Arabia",ON TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3234.ts
+#EXTINF:0 group-title="(AR) Arabia",ONTV DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2000.ts
+#EXTINF:0 group-title="(AR) Arabia",ONTV EGYPT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/980.ts
+#EXTINF:0 group-title="(AR) Arabia",ONTV LIVE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1625.ts
+#EXTINF:0 group-title="(AR) Arabia",ORIENT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1691.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN ALFA AL YOUM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/696.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN ANIMAL PLANET | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/698.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN FATAFEAT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1595.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN KID ZONE | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/700.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN ON DEMAND EXTRA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2247.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN YAHALA | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/682.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN YAHALA 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/685.ts
+#EXTINF:0 group-title="(AR) Arabia",OTV LEBANON | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/89.ts
+#EXTINF:0 group-title="(AR) Arabia",OTV LIBANON | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3258.ts
+#EXTINF:0 group-title="(AR) Arabia",PALESTINE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/284.ts
+#EXTINF:0 group-title="(AR) Arabia",PALESTINE LIVE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/253.ts
+#EXTINF:0 group-title="(AR) Arabia",PALESTINE-HQ | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5320.ts
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/990.ts
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA DRAMA 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/991.ts
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA FILM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/204.ts
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA FOOD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1738.ts
+#EXTINF:0 group-title="(AR) Arabia",PUBLITOOLS TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1790.ts
+#EXTINF:0 group-title="(AR) Arabia",PYRAMIDS TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2618.ts
+#EXTINF:0 group-title="(AR) Arabia",QATAR TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1667.ts
+#EXTINF:0 group-title="(AR) Arabia",QATAR TV QAT | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7739.ts
+#EXTINF:0 group-title="(AR) Arabia",QUEST | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1791.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1767.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA AFLAM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/155.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA AFLAM (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5199.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CLASSIC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/153.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CLIP | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/151.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CLIP (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1768.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2111.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA KHALIJIAH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/152.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA MASRIYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/154.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA MASRIYA (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1770.ts
+#EXTINF:0 group-title="(AR) Arabia",ROYA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1692.ts
+#EXTINF:0 group-title="(AR) Arabia",SADA ALBALAD DRAMA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3255.ts
+#EXTINF:0 group-title="(AR) Arabia",SADA EL BALAD | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/679.ts
+#EXTINF:0 group-title="(AR) Arabia",SADA EL BALAD 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/376.ts
+#EXTINF:0 group-title="(AR) Arabia",SADA ELBALAD DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/240.ts
+#EXTINF:0 group-title="(AR) Arabia",SAFA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/172.ts
+#EXTINF:0 group-title="(AR) Arabia",SAMA DUBAI | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/251.ts
+#EXTINF:0 group-title="(AR) Arabia",SAMA DUBAI (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1898.ts
+#EXTINF:0 group-title="(AR) Arabia",SAMA YEMEN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2066.ts
+#EXTINF:0 group-title="(AR) Arabia",SAMARRAA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/190.ts
+#EXTINF:0 group-title="(AR) Arabia",SAMIRA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/761.ts
+#EXTINF:0 group-title="(AR) Arabia",SAMIRA TV (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2612.ts
+#EXTINF:0 group-title="(AR) Arabia",SAMIRA-TV | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2594.ts
+#EXTINF:0 group-title="(AR) Arabia",SAT 7 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1584.ts
+#EXTINF:0 group-title="(AR) Arabia",SAUDIA THAQAFIYA | HD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5670.ts
+#EXTINF:0 group-title="(AR) Arabia",SBC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2289.ts
+#EXTINF:0 group-title="(AR) Arabia",SEEVII BELINK | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1829.ts
+#EXTINF:0 group-title="(AR) Arabia",SEEVII DRAMA | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1705.ts
+#EXTINF:0 group-title="(AR) Arabia",SEHATY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1807.ts
+#EXTINF:0 group-title="(AR) Arabia",SEMSEM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/297.ts
+#EXTINF:0 group-title="(AR) Arabia",SHA3BEYAT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1784.ts
+#EXTINF:0 group-title="(AR) Arabia",SHABAB TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1598.ts
+#EXTINF:0 group-title="(AR) Arabia",SHARJAH | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2933.ts
+#EXTINF:0 group-title="(AR) Arabia",SHARQIA KARBALA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2944.ts
+#EXTINF:0 group-title="(AR) Arabia",SPACE TOON | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5311.ts
+#EXTINF:0 group-title="(AR) Arabia",SPACETOON | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/902.ts
+#EXTINF:0 group-title="(AR) Arabia",STARWORLD | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2075.ts
+#EXTINF:0 group-title="(AR) Arabia",SUDAN DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/180.ts
+#EXTINF:0 group-title="(AR) Arabia",SUDAN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1678.ts
+#EXTINF:0 group-title="(AR) Arabia",SUDANIA 24 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2081.ts
+#EXTINF:0 group-title="(AR) Arabia",SUHAIL TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2100.ts
+#EXTINF:0 group-title="(AR) Arabia",SUNNAH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1722.ts
+#EXTINF:0 group-title="(AR) Arabia",SUNNEH | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3256.ts
+#EXTINF:0 group-title="(AR) Arabia",SUROYO TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/141.ts
+#EXTINF:0 group-title="(AR) Arabia",SURYOYO SAT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2143.ts
+#EXTINF:0 group-title="(AR) Arabia",SYRIA SATELLITE TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1683.ts
+#EXTINF:0 group-title="(AR) Arabia",SYRIAN DRAMA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/102.ts
+#EXTINF:0 group-title="(AR) Arabia",SYRIAN EDUCATION | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/891.ts
+#EXTINF:0 group-title="(AR) Arabia",SYRIAN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2272.ts
+#EXTINF:0 group-title="(AR) Arabia",TAHA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5324.ts
+#EXTINF:0 group-title="(AR) Arabia",TAHA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1674.ts
+#EXTINF:0 group-title="(AR) Arabia",TAL2A HENDY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/201.ts
+#EXTINF:0 group-title="(AR) Arabia",TAMAZIGHT | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2592.ts
+#EXTINF:0 group-title="(AR) Arabia",TAYBA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1758.ts
+#EXTINF:0 group-title="(AR) Arabia",TELE LIBAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1967.ts
+#EXTINF:0 group-title="(AR) Arabia",TELVZA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/206.ts
+#EXTINF:0 group-title="(AR) Arabia",TEN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1703.ts
+#EXTINF:0 group-title="(AR) Arabia",THE SAVIOR | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1765.ts
+#EXTINF:0 group-title="(AR) Arabia",TIME COMEDY | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5312.ts
+#EXTINF:0 group-title="(AR) Arabia",TOKTOK AFLAM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/139.ts
+#EXTINF:0 group-title="(AR) Arabia",TOKTOK CIMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1826.ts
+#EXTINF:0 group-title="(AR) Arabia",TOUNESNA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2603.ts
+#EXTINF:0 group-title="(AR) Arabia",TOYOR AL JANAH TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/225.ts
+#EXTINF:0 group-title="(AR) Arabia",TOYOR AL-JANAH | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1997.ts
+#EXTINF:0 group-title="(AR) Arabia",TRT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1622.ts
+#EXTINF:0 group-title="(AR) Arabia",TUNISIA NAT 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/66.ts
+#EXTINF:0 group-title="(AR) Arabia",TUNISIA NAT 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/184.ts
+#EXTINF:0 group-title="(AR) Arabia",TUNISNA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/96.ts
+#EXTINF:0 group-title="(AR) Arabia",TUR AL | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/798.ts
+#EXTINF:0 group-title="(AR) Arabia",TV TAMAZIGHT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1021.ts
+#EXTINF:0 group-title="(AR) Arabia",UBER CIMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/521.ts
+#EXTINF:0 group-title="(AR) Arabia",UNRWA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1602.ts
+#EXTINF:0 group-title="(AR) Arabia",WANASAH | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1694.ts
+#EXTINF:0 group-title="(AR) Arabia",WATAN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2094.ts
+#EXTINF:0 group-title="(AR) Arabia",YEMEN SHBAB | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1670.ts
+#EXTINF:0 group-title="(AR) Arabia",YEMEN TODAY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/984.ts
+#EXTINF:0 group-title="(AR) Arabia",YEMEN TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/756.ts
+#EXTINF:0 group-title="(AR) Arabia",ZAD TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1651.ts
+#EXTINF:0 group-title="(AR) Arabia",ZAYTOONA TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1669.ts
+#EXTINF:0 group-title="(AR) Arabia",ZEE AFLAM | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/315.ts
+#EXTINF:0 group-title="(AR) Arabia",ZEE ALWAN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/51.ts
+#EXTINF:0 group-title="(CA) Canada",TSN 1 | HD (CA)
+http://134.19.181.172:8000/live/ddd56/ddd56/1952.ts
+#EXTINF:0 group-title="(CA) Canada",TSN 5 | HD (CA)
+http://134.19.181.172:8000/live/ddd56/ddd56/1956.ts
+#EXTINF:0 group-title="(FR) France",6TER | HD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2001.ts
+#EXTINF:0 group-title="(FR) France",AB 1 | SD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1988.ts
+#EXTINF:0 group-title="(FR) France",ARB 24 ARABIC | SD (FR)
+http://134.19.181.172:8000/live/ddd56/ddd56/905.ts
+#EXTINF:0 group-title="(FR) France",FRE 2 | HD (FR)
+http://134.19.181.172:8000/live/ddd56/ddd56/872.ts
+#EXTINF:0 group-title="(FR) France",FRE 24 | SD (FR)
+http://134.19.181.172:8000/live/ddd56/ddd56/667.ts
+#EXTINF:0 group-title="(FR) France",FRE 3 | SD (FR)
+http://134.19.181.172:8000/live/ddd56/ddd56/873.ts
+#EXTINF:0 group-title="(FR) France",FRE 4 | HD (FR)
+http://134.19.181.172:8000/live/ddd56/ddd56/611.ts
+#EXTINF:0 group-title="(FR) France",FRE 5 | HD (FR)
+http://134.19.181.172:8000/live/ddd56/ddd56/612.ts
+#EXTINF:0 group-title="(FR) France",FRE O | SD (FR)
+http://134.19.181.172:8000/live/ddd56/ddd56/666.ts
+#EXTINF:0 group-title="(FR) France",M 6 | SD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1933.ts
+#EXTINF:0 group-title="(FR) France",NATIONAL GEO WILD | SD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1036.ts
+#EXTINF:0 group-title="(FR) France",NRJ 12 | SD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1840.ts
+#EXTINF:0 group-title="(FR) France",RTL 9 | HD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1414.ts
+#EXTINF:0 group-title="(FR) France",TEVA | HD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2006.ts
+#EXTINF:0 group-title="(FR) France",TF 1 | SD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1934.ts
+#EXTINF:0 group-title="(FR) France",TMC | HD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1413.ts
+#EXTINF:0 group-title="(FR) France",TV5 MONDE EUROPE | HD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1412.ts
+#EXTINF:0 group-title="(FR) France",WEO | HD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2002.ts
+#EXTINF:0 group-title="(DE) Germany",3SAT | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/645.ts
+#EXTINF:0 group-title="(DE) Germany",3SAT | SD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/857.ts
+#EXTINF:0 group-title="(DE) Germany",ANIXE | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/643.ts
+#EXTINF:0 group-title="(DE) Germany",ARD | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/642.ts
+#EXTINF:0 group-title="(DE) Germany",ARD (1+) | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2409.ts
+#EXTINF:0 group-title="(DE) Germany",CANAL HISTORIA | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3700.ts
+#EXTINF:0 group-title="(DE) Germany",CLASSICA | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2829.ts
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2406.ts
+#EXTINF:0 group-title="(DE) Germany",E ENTERTAINM | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6650.ts
+#EXTINF:0 group-title="(DE) Germany",KABEL ENIS | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2394.ts
+#EXTINF:0 group-title="(DE) Germany",KIKA | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/648.ts
+#EXTINF:0 group-title="(DE) Germany",KIKA (1+) | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2400.ts
+#EXTINF:0 group-title="(DE) Germany",KIKA | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2391.ts
+#EXTINF:0 group-title="(DE) Germany",KINOWELT | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3923.ts
+#EXTINF:0 group-title="(DE) Germany",PRO 7 | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2396.ts
+#EXTINF:0 group-title="(DE) Germany",PRO 7 MAXX | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2395.ts
+#EXTINF:0 group-title="(DE) Germany",PRO SIEBEN | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4207.ts
+#EXTINF:0 group-title="(DE) Germany",PROSIEBEN | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/861.ts
+#EXTINF:0 group-title="(DE) Germany",PROSIEBEN MAXX | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/657.ts
+#EXTINF:0 group-title="(DE) Germany",RTL | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/862.ts
+#EXTINF:0 group-title="(DE) Germany",RTL 2 | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/863.ts
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION | SD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/866.ts
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION (1+) | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2777.ts
+#EXTINF:0 group-title="(DE) Germany",SAT 1 | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/856.ts
+#EXTINF:0 group-title="(DE) Germany",SAT 3 | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2775.ts
+#EXTINF:0 group-title="(DE) Germany",SERVUS TV | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3673.ts
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/651.ts
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/869.ts
+#EXTINF:0 group-title="(DE) Germany",SKY TNT COMEDY | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6656.ts
+#EXTINF:0 group-title="(DE) Germany",SONY | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2820.ts
+#EXTINF:0 group-title="(DE) Germany",SRF 1 | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2778.ts
+#EXTINF:0 group-title="(DE) Germany",UNIVERSAL | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6646.ts
+#EXTINF:0 group-title="(DE) Germany",VOX | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/514.ts
+#EXTINF:0 group-title="(DE) Germany",WELT DER WUNDER TV | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4217.ts
+#EXTINF:0 group-title="(IN) India",ZEE TALKIES | SD (IN)
+http://izgemma.ddns.net:8000/live/ryan/ryan/1860.ts
+#EXTINF:0 group-title="(IT) Italy",DISCOVERY | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1990.ts
+#EXTINF:0 group-title="(IT) Italy",DISCOVERY CHANNEL | SD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/780.ts
+#EXTINF:0 group-title="(IT) Italy",FOCUS | SD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2060.ts
+#EXTINF:0 group-title="(IT) Italy",FOX CRIME | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/781.ts
+#EXTINF:0 group-title="(IT) Italy",LA 5 | SD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1618.ts
+#EXTINF:0 group-title="(IT) Italy",LA 7D | SD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1617.ts
+#EXTINF:0 group-title="(IT) Italy",LA5 | SD (IT)
+http://134.19.181.172:8000/live/ddd56/ddd56/2235.ts
+#EXTINF:0 group-title="(IT) Italy",MEDIASET EXTRA | SD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1621.ts
+#EXTINF:0 group-title="(IT) Italy",NAT GEO POEPLE | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/907.ts
+#EXTINF:0 group-title="(IT) Italy",NAT-GEO-WILD | SD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1989.ts
+#EXTINF:0 group-title="(IT) Italy",RAI 1 | HD (IT)
+http://134.19.181.172:8000/live/ddd56/ddd56/918.ts
+#EXTINF:0 group-title="(IT) Italy",RAI 1 (1+) | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/348.ts
+#EXTINF:0 group-title="(IT) Italy",RAI 2 | HD (IT)
+http://134.19.181.172:8000/live/ddd56/ddd56/917.ts
+#EXTINF:0 group-title="(IT) Italy",RAI 2 (1+) | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/349.ts
+#EXTINF:0 group-title="(IT) Italy",RAI 4 | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1615.ts
+#EXTINF:0 group-title="(IT) Italy",RAI 5 | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1616.ts
+#EXTINF:0 group-title="(IT) Italy",RAI GULP | SD (IT)
+http://134.19.181.172:8000/live/ddd56/ddd56/2237.ts
+#EXTINF:0 group-title="(IT) Italy",RAI PREMIUM | HD (IT)
+http://134.19.181.172:8000/live/ddd56/ddd56/2239.ts
+#EXTINF:0 group-title="(IT) Italy",RAI STORIA | SD (IT)
+http://134.19.181.172:8000/live/ddd56/ddd56/2240.ts
+#EXTINF:0 group-title="(IT) Italy",SKY COMEDY | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1024.ts
+#EXTINF:0 group-title="(IT) Italy",SKY NAT GEO WILDHD | SD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/906.ts
+#EXTINF:0 group-title="(IT) Italy",SKY UNO | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/779.ts
+#EXTINF:0 group-title="(MX) Mexico",LIGA TV | SD (MX)
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",NET5HD | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1521.ts
+#EXTINF:0 group-title="(NL) Netherlands",NPO2HD | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1519.ts
+#EXTINF:0 group-title="(NL) Netherlands",NPO3HD | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1518.ts
+#EXTINF:0 group-title="(NL) Netherlands",RTL5HD | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1516.ts
+#EXTINF:0 group-title="(NL) Netherlands",RTL8HD | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1514.ts
+#EXTINF:0 group-title="(PT) Portugal",24 KITCHEN | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6383.ts
+#EXTINF:0 group-title="(PT) Portugal",A & E | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6386.ts
+#EXTINF:0 group-title="(PT) Portugal",A & PESCA | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6387.ts
+#EXTINF:0 group-title="(PT) Portugal",AMC | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3704.ts
+#EXTINF:0 group-title="(PT) Portugal",AXN | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1129.ts
+#EXTINF:0 group-title="(PT) Portugal",AXN | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6384.ts
+#EXTINF:0 group-title="(PT) Portugal",AXN BLACK | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1131.ts
+#EXTINF:0 group-title="(PT) Portugal",AXN WHITE | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1130.ts
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 1 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1286.ts
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 2 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1285.ts
+#EXTINF:0 group-title="(PT) Portugal",BTV 1 | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6409.ts
+#EXTINF:0 group-title="(PT) Portugal",CANAL Q | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6388.ts
+#EXTINF:0 group-title="(PT) Portugal",CARTON NETWORK | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6070.ts
+#EXTINF:0 group-title="(PT) Portugal",CBS REALITY | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6398.ts
+#EXTINF:0 group-title="(PT) Portugal",CM TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4329.ts
+#EXTINF:0 group-title="(PT) Portugal",DISCOVERY CHANNEL | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4337.ts
+#EXTINF:0 group-title="(PT) Portugal",DISCOVERY SHOWCASE | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6389.ts
+#EXTINF:0 group-title="(PT) Portugal",E! ENTERTAINMENT | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1276.ts
+#EXTINF:0 group-title="(PT) Portugal",FOX COMEDY | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6391.ts
+#EXTINF:0 group-title="(PT) Portugal",FOX CRIME | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4331.ts
+#EXTINF:0 group-title="(PT) Portugal",FOX L | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3693.ts
+#EXTINF:0 group-title="(PT) Portugal",FOX LIFE | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6392.ts
+#EXTINF:0 group-title="(PT) Portugal",FOX MOVE | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/888.ts
+#EXTINF:0 group-title="(PT) Portugal",FOX TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6393.ts
+#EXTINF:0 group-title="(PT) Portugal",FUEL TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6397.ts
+#EXTINF:0 group-title="(PT) Portugal",GLOBO TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4098.ts
+#EXTINF:0 group-title="(PT) Portugal",HOLLYWOOD | SD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/619.ts
+#EXTINF:0 group-title="(PT) Portugal",HOLLYWOOD (1+) | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6394.ts
+#EXTINF:0 group-title="(PT) Portugal",JIMJAM EMEA | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3692.ts
+#EXTINF:0 group-title="(PT) Portugal",NAT GEO WILD | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4334.ts
+#EXTINF:0 group-title="(PT) Portugal",NAT GEOGRAPHIC | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6411.ts
+#EXTINF:0 group-title="(PT) Portugal",ODISSEIA | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4336.ts
+#EXTINF:0 group-title="(PT) Portugal",PANDA | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6068.ts
+#EXTINF:0 group-title="(PT) Portugal",PFC | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6395.ts
+#EXTINF:0 group-title="(PT) Portugal",PORTO CANAL | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6396.ts
+#EXTINF:0 group-title="(PT) Portugal",RTP 1 | SD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/512.ts
+#EXTINF:0 group-title="(PT) Portugal",RTP 1 (1+) | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1747.ts
+#EXTINF:0 group-title="(PT) Portugal",RTP 2 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1748.ts
+#EXTINF:0 group-title="(PT) Portugal",RTP 3 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6429.ts
+#EXTINF:0 group-title="(PT) Portugal",RTP MADEIRA | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1753.ts
+#EXTINF:0 group-title="(PT) Portugal",RTP MEMORIA | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1754.ts
+#EXTINF:0 group-title="(PT) Portugal",SIC | SD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/507.ts
+#EXTINF:0 group-title="(PT) Portugal",SIC (1+) | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3937.ts
+#EXTINF:0 group-title="(PT) Portugal",SIC CARAS | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4333.ts
+#EXTINF:0 group-title="(PT) Portugal",SIC RADICAL | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3934.ts
+#EXTINF:0 group-title="(PT) Portugal",SYFY | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1279.ts
+#EXTINF:0 group-title="(PT) Portugal",TLC | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6402.ts
+#EXTINF:0 group-title="(PT) Portugal",TOUROS TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6401.ts
+#EXTINF:0 group-title="(PT) Portugal",TV GLOBO PREMIUM | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4110.ts
+#EXTINF:0 group-title="(PT) Portugal",TV RECORD | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6400.ts
+#EXTINF:0 group-title="(PT) Portugal",TVC 1 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1734.ts
+#EXTINF:0 group-title="(PT) Portugal",TVC 2 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1275.ts
+#EXTINF:0 group-title="(PT) Portugal",TVC 3 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1736.ts
+#EXTINF:0 group-title="(PT) Portugal",TVI | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3932.ts
+#EXTINF:0 group-title="(PT) Portugal",TVI 24 | SD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/499.ts
+#EXTINF:0 group-title="(PT) Portugal",TVI 24 (1+) | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3933.ts
+#EXTINF:0 group-title="(PT) Portugal",TVI FIC | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6430.ts
+#EXTINF:0 group-title="(PT) Portugal",TVI REALITY | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4330.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",24 VESTI | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4989.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ALFA TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4988.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ANIMAL PLANET | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6980.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",AXN ADRIA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6982.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",B92 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2219.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",B92 INFO | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6983.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",BALKANIKA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4691.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",BALKANIKA (1+) | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6984.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",BHT | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4987.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",BHT 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6986.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",BN SAT | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4990.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",BOSNA TV 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6987.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",COMEDY CENTRAL | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6989.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",DM SAT | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4699.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",DOCUBOX | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6992.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",DOMA TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4698.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",DUGA TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6993.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",FACE TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2220.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",FEDERALNA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5001.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",FEDERALNA TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6996.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX CRIME | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4758.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX LIFE | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4689.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",GRAND TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4760.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAPPY TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2221.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT | HD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2222.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYATOVCI | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4996.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 2 SLO | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6998.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 3 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6999.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO ADRIA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4692.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO COMEDY | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4693.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HISTORY | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7002.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HRT 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1681.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HRT 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1682.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HRT 3 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1683.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HRT 4 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1684.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ID DISCOVERY | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7003.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ISTOK TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7004.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",IZVORNA TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7005.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",KANAL 5 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4995.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",KANAL 5 PLUS | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4994.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",KCN 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4378.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",KCN 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4377.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",KCN 3 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4376.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",KLASIK | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4993.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",MINI TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7009.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",N1 BOSNA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5003.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",NAT GEO WILD | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7015.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",NATIONAL GEOGRAPHIC | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7016.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",NOVA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7017.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",OBN | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4697.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",OTV VALENTINO | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7018.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PING FOLK 1 TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2869.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5005.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 1 RESERVE | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7049.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1189.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 3 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1188.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ACTION | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1187.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK BH | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5006.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK COMEDY | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/730.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK CRIME & MISTERY | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1186.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK CRIME & MYSTERY | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7050.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK EXTRA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7052.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FILM | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1184.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7053.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5007.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HOROR | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/726.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HORROR | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7055.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK KUVAR | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7057.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK M | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1181.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PEDIA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7061.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PLUS | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/723.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PREMIUM | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/722.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ROMANCE | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1180.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SCI-FI & FANTASY | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/720.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SOAP | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/719.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK THRILLER | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/718.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK WESTERN | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/717.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ZABAVA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7065.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINKBIH | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1178.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PRVA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4756.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PRVA PLUS | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2229.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4694.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4695.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL LIVING | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4696.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTRS | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2226.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS | HD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7045.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2227.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2228.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",SANDZAK TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7019.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",SITEL 3 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5000.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",SITEL TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4999.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",TELMA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4998.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",TK TUZLA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7023.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV NOVA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7033.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV SARAJEVO | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7034.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",VINKOVA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6991.ts
+#EXTINF:0 group-title="(SP) Spain",HISTORIA | SD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1101.ts
+#EXTINF:0 group-title="(SP) Spain",HISTORY | SD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1080.ts
+#EXTINF:0 group-title="(SP) Spain",LA SXTA | SD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3103.ts
+#EXTINF:0 group-title="(SP) Spain",LA1 | HD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3105.ts
+#EXTINF:0 group-title="(SP) Spain",LA2 | SD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3104.ts
+#EXTINF:0 group-title="(SP) Spain",NATIONAL GEOGRAPHIC | SD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3100.ts
+#EXTINF:0 group-title="(SP) Spain",REAL MADRID | SD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3098.ts
+#EXTINF:0 group-title="(SP) Spain",SYFY | HD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5031.ts
+#EXTINF:0 group-title="(SP) Spain",TNT | SD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5034.ts
+#EXTINF:0 group-title="(TR) Turkey",24 TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5452.ts
+#EXTINF:0 group-title="(TR) Turkey",360 TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/825.ts
+#EXTINF:0 group-title="(TR) Turkey",A HABER | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/721.ts
+#EXTINF:0 group-title="(TR) Turkey",A HABER (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6689.ts
+#EXTINF:0 group-title="(TR) Turkey",AKSU TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5453.ts
+#EXTINF:0 group-title="(TR) Turkey",ANIMAL PLANET | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6692.ts
+#EXTINF:0 group-title="(TR) Turkey",ATV | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/486.ts
+#EXTINF:0 group-title="(TR) Turkey",ATV (1+) | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1377.ts
+#EXTINF:0 group-title="(TR) Turkey",ATV AVRUPA | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/731.ts
+#EXTINF:0 group-title="(TR) Turkey",ATV AVRUPA (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6693.ts
+#EXTINF:0 group-title="(TR) Turkey",BELGESEL | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6756.ts
+#EXTINF:0 group-title="(TR) Turkey",BENGUTURK TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/807.ts
+#EXTINF:0 group-title="(TR) Turkey",BENGUTURK TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3545.ts
+#EXTINF:0 group-title="(TR) Turkey",BEYAZ | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/828.ts
+#EXTINF:0 group-title="(TR) Turkey",BJK TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6696.ts
+#EXTINF:0 group-title="(TR) Turkey",BURSA TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2087.ts
+#EXTINF:0 group-title="(TR) Turkey",CEM TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/768.ts
+#EXTINF:0 group-title="(TR) Turkey",CEM TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3547.ts
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY TURBO XTRA | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6759.ts
+#EXTINF:0 group-title="(TR) Turkey",DREAM | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/836.ts
+#EXTINF:0 group-title="(TR) Turkey",DREAM | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5455.ts
+#EXTINF:0 group-title="(TR) Turkey",DREAM TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/835.ts
+#EXTINF:0 group-title="(TR) Turkey",DREAM TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5456.ts
+#EXTINF:0 group-title="(TR) Turkey",EGE TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5457.ts
+#EXTINF:0 group-title="(TR) Turkey",EKIN TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6763.ts
+#EXTINF:0 group-title="(TR) Turkey",EURO D | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/837.ts
+#EXTINF:0 group-title="(TR) Turkey",FB TV | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2082.ts
+#EXTINF:0 group-title="(TR) Turkey",FB TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6764.ts
+#EXTINF:0 group-title="(TR) Turkey",FIL TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3130.ts
+#EXTINF:0 group-title="(TR) Turkey",FLASH TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/840.ts
+#EXTINF:0 group-title="(TR) Turkey",FLASH TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3128.ts
+#EXTINF:0 group-title="(TR) Turkey",FOX CRIME | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6769.ts
+#EXTINF:0 group-title="(TR) Turkey",FOX LIFE | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6770.ts
+#EXTINF:0 group-title="(TR) Turkey",FOX TV | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/485.ts
+#EXTINF:0 group-title="(TR) Turkey",FOX TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1369.ts
+#EXTINF:0 group-title="(TR) Turkey",GS TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6772.ts
+#EXTINF:0 group-title="(TR) Turkey",HABER | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6803.ts
+#EXTINF:0 group-title="(TR) Turkey",HABERTURK | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/728.ts
+#EXTINF:0 group-title="(TR) Turkey",HALK TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/806.ts
+#EXTINF:0 group-title="(TR) Turkey",HALK TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3546.ts
+#EXTINF:0 group-title="(TR) Turkey",HISTORY CHANNEL | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6773.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL 24 | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/827.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL 26 | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2080.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL 3 | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/793.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL 3 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6774.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL 4 | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2095.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL 7 | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/776.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL 7 (1+) | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1584.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL 7 AVRUPA | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6775.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL AVRUPA | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/786.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL D | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/704.ts
+#EXTINF:0 group-title="(TR) Turkey",KANAL D | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/794.ts
+#EXTINF:0 group-title="(TR) Turkey",KRAL POP | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6777.ts
+#EXTINF:0 group-title="(TR) Turkey",KRAL TV | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/813.ts
+#EXTINF:0 group-title="(TR) Turkey",KRAL TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6776.ts
+#EXTINF:0 group-title="(TR) Turkey",KRT | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2079.ts
+#EXTINF:0 group-title="(TR) Turkey",MAVI KARADENIZ TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/808.ts
+#EXTINF:0 group-title="(TR) Turkey",MINIKA COCUK | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/792.ts
+#EXTINF:0 group-title="(TR) Turkey",MINIKA COCUK (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6779.ts
+#EXTINF:0 group-title="(TR) Turkey",MINIKA GO | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/805.ts
+#EXTINF:0 group-title="(TR) Turkey",MINIKA GO (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6778.ts
+#EXTINF:0 group-title="(TR) Turkey",NAT GEO WILD | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6786.ts
+#EXTINF:0 group-title="(TR) Turkey",NATIONAL GEOGRAPHIC | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6785.ts
+#EXTINF:0 group-title="(TR) Turkey",NTV | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3541.ts
+#EXTINF:0 group-title="(TR) Turkey",NUMBER ONE | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3137.ts
+#EXTINF:0 group-title="(TR) Turkey",PLANET | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6806.ts
+#EXTINF:0 group-title="(TR) Turkey",PLANET COCUK | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/725.ts
+#EXTINF:0 group-title="(TR) Turkey",PLANET COCUK (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6789.ts
+#EXTINF:0 group-title="(TR) Turkey",PLANET MUTFAK | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/816.ts
+#EXTINF:0 group-title="(TR) Turkey",PLANET PEMBE | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6790.ts
+#EXTINF:0 group-title="(TR) Turkey",POWER | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1571.ts
+#EXTINF:0 group-title="(TR) Turkey",POWER TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/727.ts
+#EXTINF:0 group-title="(TR) Turkey",POWER TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6791.ts
+#EXTINF:0 group-title="(TR) Turkey",RUMELI TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/822.ts
+#EXTINF:0 group-title="(TR) Turkey",SHOW | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/839.ts
+#EXTINF:0 group-title="(TR) Turkey",SHOW TV | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1381.ts
+#EXTINF:0 group-title="(TR) Turkey",SHOW TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/484.ts
+#EXTINF:0 group-title="(TR) Turkey",SHOW TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6794.ts
+#EXTINF:0 group-title="(TR) Turkey",SHOWMAX | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/831.ts
+#EXTINF:0 group-title="(TR) Turkey",SHOWMAX (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6793.ts
+#EXTINF:0 group-title="(TR) Turkey",SINEMA | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6795.ts
+#EXTINF:0 group-title="(TR) Turkey",SINEMA 1 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/524.ts
+#EXTINF:0 group-title="(TR) Turkey",SINEMA 4 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6798.ts
+#EXTINF:0 group-title="(TR) Turkey",SINEMA 5 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3895.ts
+#EXTINF:0 group-title="(TR) Turkey",SINEMA AILE | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6811.ts
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV 1 | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1380.ts
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV 1001 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6810.ts
+#EXTINF:0 group-title="(TR) Turkey",SKY 360 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6809.ts
+#EXTINF:0 group-title="(TR) Turkey",STAR TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/820.ts
+#EXTINF:0 group-title="(TR) Turkey",STAR TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/703.ts
+#EXTINF:0 group-title="(TR) Turkey",STAR TV EURO | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6807.ts
+#EXTINF:0 group-title="(TR) Turkey",TELE 1 | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/799.ts
+#EXTINF:0 group-title="(TR) Turkey",TEVE 2 | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/800.ts
+#EXTINF:0 group-title="(TR) Turkey",TEVE 2 (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6805.ts
+#EXTINF:0 group-title="(TR) Turkey",TGRT BELGESEL | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/797.ts
+#EXTINF:0 group-title="(TR) Turkey",TGRT EU | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6804.ts
+#EXTINF:0 group-title="(TR) Turkey",TGRT HABER | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/821.ts
+#EXTINF:0 group-title="(TR) Turkey",TLC | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2096.ts
+#EXTINF:0 group-title="(TR) Turkey",TREK | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6802.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/525.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/804.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1366.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT 1 | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/814.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT AVAZ | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/733.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT BELGESEL | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3126.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT COCUK | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/811.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT COCUK (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1368.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT DIYANET | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/785.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT HABER | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/815.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT HABER (1+) | HD (TR)
+http://trt-live.ercdn.net/trthaber/trthaber_1.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT HABER (2+) | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1167.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT MUZIK | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/775.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT OKUL | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/810.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT OKUL (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3125.ts
+#EXTINF:0 group-title="(TR) Turkey",TV 2 | HD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3132.ts
+#EXTINF:0 group-title="(TR) Turkey",TV 8 | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/830.ts
+#EXTINF:0 group-title="(TR) Turkey",TV NET | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6686.ts
+#EXTINF:0 group-title="(TR) Turkey",TV8-5 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6687.ts
+#EXTINF:0 group-title="(TR) Turkey",ULKE TV | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/774.ts
+#EXTINF:0 group-title="(TR) Turkey",ULUSAL KANAL | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5458.ts
+#EXTINF:0 group-title="(TR) Turkey",VATAN TV | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/829.ts
+#EXTINF:0 group-title="(TR) Turkey",VATAN TV (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6685.ts
+#EXTINF:0 group-title="(TR) Turkey",YABAN | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1757.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3094.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | HD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1942.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ARB AL JAZEERA | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/122.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3081.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3082.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | HD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3084.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/31973.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 (1+) | HD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3085.ts
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/968.ts
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL EXTRA | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/969.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CRIME | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/923.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CTH STADIUM 2 | HD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/940.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/634.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/939.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY INVESTIGATION | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1938.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/937.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE (1+) | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1937.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1936.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DMAX | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/970.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DRAMA | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3092.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FIVE STAR | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/633.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FOOD | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3093.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2385.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FOX | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/965.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FRANCE 24 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1696.ts
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3091.ts
+#EXTINF:0 group-title="(UK) United Kingdom",GOOD FOOD | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/632.ts
+#EXTINF:0 group-title="(UK) United Kingdom",HISTORY 1 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/971.ts
+#EXTINF:0 group-title="(UK) United Kingdom",HOME | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3090.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ITV | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2167.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 1 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/919.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/920.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/921.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ITV BE | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/630.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ITV3 | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2165.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ITVBE | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2163.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/963.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | HD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1941.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/924.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC (1+) | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1448.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NOOR TV | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11740.ts
+#EXTINF:0 group-title="(UK) United Kingdom",QUEST | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3089.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RTE 1 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1053.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2740.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RTE1 | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2742.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RTE2 | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2741.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/8143.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SONY TV | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2747.ts
+#EXTINF:0 group-title="(UK) United Kingdom",TG4 | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2739.ts
+#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2156.ts
+#EXTINF:0 group-title="(UK) United Kingdom",TV3 IRELAND | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1054.ts
+#EXTINF:0 group-title="(US) United States",BRAVO | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/207.ts
+#EXTINF:0 group-title="(US) United States",CHCH | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1974.ts
+#EXTINF:0 group-title="(US) United States",E! ENTERTAINMENT | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1962.ts
+#EXTINF:0 group-title="(US) United States",FOX | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1905.ts
+#EXTINF:0 group-title="(US) United States",HBO SIGNATURE | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1976.ts
+#EXTINF:0 group-title="(US) United States",HBO ZONE | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1961.ts
+#EXTINF:0 group-title="(US) United States",HGTV | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/2014.ts
+#EXTINF:0 group-title="(US) United States",MSNBC | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/2258.ts
+#EXTINF:0 group-title="(US) United States",NETWORK | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1911.ts
+#EXTINF:0 group-title="(US) United States",SHOWTIME | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1901.ts
+#EXTINF:0 group-title="(US) United States",SPIKE | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1909.ts
+#EXTINF:0 group-title="(US) United States",SYFY | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1910.ts
+#EXTINF:0 group-title="(WW) World Wide",ARB AL OULA | SD (WW)
+http://134.19.181.172:8000/live/ddd56/ddd56/987.ts
+#EXTINF:0 group-title="(WW) World Wide",ARB BAHRAIN | SD (WW)
+http://134.19.181.172:8000/live/ddd56/ddd56/1747.ts
+#EXTINF:0 group-title="(WW) World Wide",ARB FUTURE TV | SD (WW)
+http://134.19.181.172:8000/live/ddd56/ddd56/174.ts
+#EXTINF:0 group-title="(WW) World Wide",ARB NHK | SD (WW)
+http://134.19.181.172:8000/live/ddd56/ddd56/351.ts
+#EXTINF:0 group-title="(WW) World Wide",ARB OSN STAR | SD (WW)
+http://134.19.181.172:8000/live/ddd56/ddd56/705.ts
+#EXTINF:0 group-title="(WW) World Wide",EX-YU | SD (WW)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/716.ts
+#EXTINF:0 group-title="(WW) World Wide",TUR TRT | HD (WW)
+http://134.19.181.172:8000/live/ddd56/ddd56/824.ts
+#EXTM3U
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 1 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/886.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 2 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/887.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 3 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/888.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 4 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/690.ts
+#EXTINF:0 group-title="(AR) Arabia",BEINMOVIES 1HD | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1755.ts
+#EXTINF:0 group-title="(AR) Arabia",CINEMA 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/757.ts
+#EXTINF:0 group-title="(AR) Arabia",CINEMA 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/758.ts
+#EXTINF:0 group-title="(AR) Arabia",CINEMA PRO | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/84.ts
+#EXTINF:0 group-title="(AR) Arabia",CINEMA TUBE | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1797.ts
+#EXTINF:0 group-title="(AR) Arabia",CINEMA-PRO | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1611.ts
+#EXTINF:0 group-title="(AR) Arabia",LDC MOVIES | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2935.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN CINEMA 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/687.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN CINEMA 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/688.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES ACTION H | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/710.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES COMEDY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/694.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIES H | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/712.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN YAHALA CINEMA | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/684.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINEMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/156.ts
+#EXTINF:0 group-title="(AR) Arabia",STAR CINEMA 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/261.ts
+#EXTINF:0 group-title="(AR) Arabia",STAR CINEMA 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/262.ts
+#EXTINF:0 group-title="(DE) Germany",DISNEY CINEMAGIC | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2405.ts
+#EXTINF:0 group-title="(IT) Italy",CINEMA | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1020.ts
+#EXTINF:0 group-title="(IT) Italy",RAI MOVIES | SD (IT)
+http://134.19.181.172:8000/live/ddd56/ddd56/2238.ts
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CLASSICS | SD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/782.ts
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CULT | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/783.ts
+#EXTINF:0 group-title="(PT) Portugal",CINE MUNDO | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6072.ts
+#EXTINF:0 group-title="(PT) Portugal",FOX MOVIES | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6520.ts
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 1 | HD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/503.ts
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 1 (1+) | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6403.ts
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 2 | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6404.ts
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 2 | SD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/502.ts
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 3 | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6405.ts
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 3 | SD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/501.ts
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 4 | HD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/500.ts
+#EXTINF:0 group-title="(PT) Portugal",TV CINE 4 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6406.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINEMAX 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1945.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINEMAX 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1946.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINESTAR ACTION | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1947.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINESTAR PREMIER 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1948.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINESTAR PREMIER 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1949.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINESTAR TV | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1950.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX MOVIES | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4759.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",MINIMAX/CINEMANIA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7011.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK MOVIES | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7058.ts
+#EXTINF:0 group-title="(TR) Turkey",MOVIESMART ACTION | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6780.ts
+#EXTINF:0 group-title="(TR) Turkey",MOVIESMART CLASSIC | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6781.ts
+#EXTINF:0 group-title="(TR) Turkey",MOVIESMART FAMILY | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2913.ts
+#EXTINF:0 group-title="(TR) Turkey",MOVIESMART FEST | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6782.ts
+#EXTINF:0 group-title="(TR) Turkey",MOVIESMART PLATIN | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6783.ts
+#EXTINF:0 group-title="(TR) Turkey",MOVIESMART PREMIUM 2 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6784.ts
+#EXTINF:0 group-title="(UK) United Kingdom",B4U MOVIES | SD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/283.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA COMEDY | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/27095.ts
+#EXTM3U
+#EXTINF:0 group-title="(AR) Arabia",OSN ALFA SERIES | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/686.ts
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2780.ts
+#EXTINF:0 group-title="(PT) Portugal",TVC SERIES | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6517.ts
+#EXTM3U
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/27.ts
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/28.ts
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 3 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2016.ts
+#EXTINF:0 group-title="(AR) Arabia",AD-SPORTS1 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1924.ts
+#EXTINF:0 group-title="(AR) Arabia",AD-SPORTS2 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1925.ts
+#EXTINF:0 group-title="(AR) Arabia",AL ANBAR | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/913.ts
+#EXTINF:0 group-title="(AR) Arabia",AL IRAQIYA SPORTS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1663.ts
+#EXTINF:0 group-title="(AR) Arabia",AL MINBAR | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1822.ts
+#EXTINF:0 group-title="(AR) Arabia",AL NAHAR SPORTS | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3777.ts
+#EXTINF:0 group-title="(AR) Arabia",BAHRAIN SPORT 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1714.ts
+#EXTINF:0 group-title="(AR) Arabia",BAHRAIN SPORT 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1641.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 12 | HD (AR)
+http://188.93.238.184:8000/live/snet/snet/37785.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 1 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/739.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 10 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/748.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 11 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/749.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 12 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/750.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 2 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/740.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 2 EXTRA | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1981.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 3 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/741.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 4 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/742.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 4 EXTRA | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2105.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 5 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/743.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 5 EXTRA | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2109.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 6 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/744.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 7 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/745.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 8 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/746.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9 | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/747.ts
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS NEWS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2065.ts
+#EXTINF:0 group-title="(AR) Arabia",DMC SPORTS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1833.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI RACING | HD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1773.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI RACING | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1912.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 3 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2144.ts
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 4 | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2145.ts
+#EXTINF:0 group-title="(AR) Arabia",IRAQIA SPORT | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2941.ts
+#EXTINF:0 group-title="(AR) Arabia",JORDAN SPORT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/106.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT SPORT PLUS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2090.ts
+#EXTINF:0 group-title="(AR) Arabia",KUWAIT SPORTS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1685.ts
+#EXTINF:0 group-title="(AR) Arabia",NEELAIN SPORT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1793.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE SPORT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/294.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE SPORT (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1897.ts
+#EXTINF:0 group-title="(AR) Arabia",ONTV SPORT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/47.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/32.ts
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORTS 2 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/31.ts
+#EXTINF:0 group-title="(AR) Arabia",PALESTINE SPORT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/260.ts
+#EXTINF:0 group-title="(AR) Arabia",SPORT 1 | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/374.ts
+#EXTINF:0 group-title="(AR) Arabia",SUDAN SPORT | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1805.ts
+#EXTINF:0 group-title="(CA) Canada",SPORTSNET 360 | HD (CA)
+http://134.19.181.172:8000/live/ddd56/ddd56/1957.ts
+#EXTINF:0 group-title="(CA) Canada",SPORTSNET ONE | HD (CA)
+http://134.19.181.172:8000/live/ddd56/ddd56/1958.ts
+#EXTINF:0 group-title="(CA) Canada",SPORTSNET ONTARIO | HD (CA)
+http://134.19.181.172:8000/live/ddd56/ddd56/1959.ts
+#EXTINF:0 group-title="(FR) France",EUROSPORT-2 | SD (FR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1986.ts
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2382.ts
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6648.ts
+#EXTINF:0 group-title="(DE) Germany",SPORT 1 PLUS | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5639.ts
+#EXTINF:0 group-title="(DE) Germany",SPORTDIGITAL | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5640.ts
+#EXTINF:0 group-title="(IT) Italy",EUROSPORT 1 | SD (IT)
+http://134.19.181.172:8000/live/ddd56/ddd56/2244.ts
+#EXTINF:0 group-title="(IT) Italy",RAI SPORT 1 | HD (IT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1622.ts
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORT 1 | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1504.ts
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORT 2 | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1503.ts
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORT 3 | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1493.ts
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORT 4 | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1492.ts
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORT 5 | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1497.ts
+#EXTINF:0 group-title="(NL) Netherlands",SPORT 1 RACING | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1496.ts
+#EXTINF:0 group-title="(NL) Netherlands",SPORT1SELECTHD | SD (NL)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1512.ts
+#EXTINF:0 group-title="(PK) Pakistan",PTV SPORTS | SD (PK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/37301.ts
+#EXTINF:0 group-title="(PT) Portugal",CHELSEA TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3698.ts
+#EXTINF:0 group-title="(PT) Portugal",EUROSPORT | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3694.ts
+#EXTINF:0 group-title="(PT) Portugal",EUROSPORT 1 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1283.ts
+#EXTINF:0 group-title="(PT) Portugal",MOTORS TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3691.ts
+#EXTINF:0 group-title="(PT) Portugal",MOTORVISION TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6385.ts
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 1 | HD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/508.ts
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 1 (1+) | HD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1969.ts
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 1 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1813.ts
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 4 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1274.ts
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 5 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1814.ts
+#EXTINF:0 group-title="(PT) Portugal",SPORTING TV | SD (PT)
+http://134.19.181.172:8000/live/ddd56/ddd56/504.ts
+#EXTINF:0 group-title="(PT) Portugal",SPORTING TV (1+) | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1280.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1543.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 1 SBR | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1548.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1544.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 2 SBR | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1549.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 3 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1545.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 3 SBR | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1550.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 4 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1546.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 4 SBR | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1551.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 5 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1547.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",EUROSPORT 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4754.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",EUROSPORT 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4755.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",FIGHTBOX | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4379.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 1 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1967.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 2 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1968.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",SPORT KLUB 3 | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2100.ts
+#EXTINF:0 group-title="(TR) Turkey",A SPOR | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/838.ts
+#EXTINF:0 group-title="(TR) Turkey",A SPOR | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6691.ts
+#EXTINF:0 group-title="(TR) Turkey",BURSASPOR | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6698.ts
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORT 1 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6767.ts
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORT 2 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6768.ts
+#EXTINF:0 group-title="(TR) Turkey",NTV SPOR | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/707.ts
+#EXTINF:0 group-title="(TR) Turkey",SPORTS TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6808.ts
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 1 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6680.ts
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 3 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6681.ts
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 4 | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6682.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/771.ts
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3124.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3097.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOX NATION | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/948.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/641.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/640.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5655.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FOX SPORT 2 | HD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1090.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTOTRS TV | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2155.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5654.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2162.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SETANTA SPORT | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/942.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://188.93.238.184:8000/live/snet/snet/37955.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37988.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/37400.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://188.93.238.184:8000/live/snet/snet/9725.ts
+#EXTINF:0 group-title="(US) United States",ESPN 2 | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/2003.ts
+#EXTINF:0 group-title="(US) United States",ESPN U | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/2002.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORT 1 | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1089.ts
+#EXTINF:0 group-title="(US) United States",NBA TV | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1903.ts
+#EXTINF:0 group-title="(US) United States",NBC GOLF | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/2042.ts
+#EXTINF:0 group-title="(US) United States",NFL NETWORK | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1908.ts
+#EXTINF:0 group-title="(US) United States",NHL NETWORK | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1907.ts
+#EXTINF:0 group-title="(US) United States",TENNIS CHANNEL | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1992.ts
+#EXTINF:0 group-title="(WW) World Wide",CAN SPORTSNET | HD (WW)
+http://134.19.181.172:8000/live/ddd56/ddd56/1960.ts
+#EXTM3U
+#EXTINF:0 group-title="(AR) Arabia",MELODY CLASSIC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/83.ts
+#EXTINF:0 group-title="(AR) Arabia",MELODY CLASSIC (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/5330.ts
+#EXTINF:0 group-title="(AR) Arabia",MTV LEBANON | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/379.ts
+#EXTINF:0 group-title="(AR) Arabia",MUSIC ALHANEN | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/907.ts
+#EXTINF:0 group-title="(AR) Arabia",MUSIC ALREMAS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1756.ts
+#EXTINF:0 group-title="(AR) Arabia",ROTANA MUSIC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/150.ts
+#EXTINF:0 group-title="(PT) Portugal",AFRO MUSIC | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6407.ts
+#EXTINF:0 group-title="(PT) Portugal",VH1 | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1744.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2223.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",MTV ADRIA | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7013.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",MTV IGMAN | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7014.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK MUSIC | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7059.ts
+#EXTINF:0 group-title="(SP) Spain",MTV | SD (SP)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1079.ts
+#EXTINF:0 group-title="(UK) United Kingdom",VH1 | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2153.ts
+#EXTM3U
+#EXTINF:0 group-title="(AR) Arabia",CARTOON NETWORK | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/50.ts
+#EXTINF:0 group-title="(AR) Arabia",JEEM KIDS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1998.ts
+#EXTINF:0 group-title="(AR) Arabia",MAJID KIDS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1965.ts
+#EXTINF:0 group-title="(AR) Arabia",MBC 3 KIDS | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3233.ts
+#EXTINF:0 group-title="(AR) Arabia",MODY KIDS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/218.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE FAMILY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1636.ts
+#EXTINF:0 group-title="(AR) Arabia",SAT 7 KIDS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1582.ts
+#EXTINF:0 group-title="(AR) Arabia",SAT 7 KIDS (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7497.ts
+#EXTINF:0 group-title="(AR) Arabia",TOYOR BABY | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/677.ts
+#EXTINF:0 group-title="(DE) Germany",DISNEY | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/644.ts
+#EXTINF:0 group-title="(DE) Germany",DISNEY XD | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4210.ts
+#EXTINF:0 group-title="(DE) Germany",JUNIOR | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4209.ts
+#EXTINF:0 group-title="(DE) Germany",NICK JR | HD (DE)
+http://163.172.60.161:25461/live/kingtivimedya4/iptv01/295.ts
+#EXTINF:0 group-title="(DE) Germany",NICK/COMEDY CENTRAL | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6644.ts
+#EXTINF:0 group-title="(DE) Germany",NICKELODEON | HD (DE)
+http://134.19.181.172:8000/live/ddd56/ddd56/656.ts
+#EXTINF:0 group-title="(DE) Germany",NICKELODEON (1+) | HD (DE)
+http://163.172.60.161:25461/live/kingtivimedya4/iptv01/296.ts
+#EXTINF:0 group-title="(DE) Germany",NICKLODEON | HD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2776.ts
+#EXTINF:0 group-title="(PT) Portugal",BABY TV | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3702.ts
+#EXTINF:0 group-title="(PT) Portugal",CARTOON NETWORK | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6399.ts
+#EXTINF:0 group-title="(PT) Portugal",DISNEY CHANNEL | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3696.ts
+#EXTINF:0 group-title="(PT) Portugal",DISNEY JUNIOR | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6390.ts
+#EXTINF:0 group-title="(PT) Portugal",NICKELODEON | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6071.ts
+#EXTINF:0 group-title="(PT) Portugal",SIC KIDS | SD (PT)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3936.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK KIDS | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/725.ts
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SUPER KIDS | SD (EX-YU)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7064.ts
+#EXTINF:0 group-title="(TR) Turkey",BABY TV | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6694.ts
+#EXTINF:0 group-title="(TR) Turkey",CARTOON NETWORK | HD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/723.ts
+#EXTINF:0 group-title="(TR) Turkey",DISNEY CHANNEL | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/724.ts
+#EXTINF:0 group-title="(TR) Turkey",DISNEY CHANNEL (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3543.ts
+#EXTINF:0 group-title="(TR) Turkey",DISNEY JUNIOR | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6760.ts
+#EXTINF:0 group-title="(TR) Turkey",NICK JR | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6788.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BABY TV | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1900.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BABY TV (1+) | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/4986.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOOMERANG | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1056.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CBEEBIES | HD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1993.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY CHANNEL | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1991.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JUNIOR | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/960.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY XD | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1990.ts
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY XD (1+) | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2173.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NICK JUNIOR | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/628.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NICK JUNIOR (1+) | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2241.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NICKELODEON | HD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2240.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NICKELODEON | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/627.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NICKTOONS | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1943.ts
+#EXTINF:0 group-title="(US) United States",CARTOON NETWORK | HD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1898.ts
+#EXTINF:0 group-title="(US) United States",NICKTOONS | SD (US)
+http://134.19.181.172:8000/live/ddd56/ddd56/1904.ts
+#EXTM3U
+#EXTINF:0 group-title="(AR) Arabia",AL IRAQIA TV NEWS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1664.ts
+#EXTINF:0 group-title="(AR) Arabia",AL IRAQIYA NEWS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1706.ts
+#EXTINF:0 group-title="(AR) Arabia",AL JAZEERA NEWS | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/7742.ts
+#EXTINF:0 group-title="(AR) Arabia",AL SHARQIA NEWS | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2946.ts
+#EXTINF:0 group-title="(AR) Arabia",BBC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/380.ts
+#EXTINF:0 group-title="(AR) Arabia",BBC (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1923.ts
+#EXTINF:0 group-title="(AR) Arabia",BBC (2+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1983.ts
+#EXTINF:0 group-title="(AR) Arabia",BBC-NEWS | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1984.ts
+#EXTINF:0 group-title="(AR) Arabia",CBC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/246.ts
+#EXTINF:0 group-title="(AR) Arabia",CBC DRAMA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/245.ts
+#EXTINF:0 group-title="(AR) Arabia",CBC DRAMA (1+) | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2083.ts
+#EXTINF:0 group-title="(AR) Arabia",CBC EXTRA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/247.ts
+#EXTINF:0 group-title="(AR) Arabia",CBC SOFRA | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/901.ts
+#EXTINF:0 group-title="(AR) Arabia",CBC-EXTRA | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2084.ts
+#EXTINF:0 group-title="(AR) Arabia",CCTV-A | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1813.ts
+#EXTINF:0 group-title="(AR) Arabia",CNBC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1677.ts
+#EXTINF:0 group-title="(AR) Arabia",CTV COPTIC | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2013.ts
+#EXTINF:0 group-title="(AR) Arabia",DZAIR NEWS | SD (AR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2614.ts
+#EXTINF:0 group-title="(AR) Arabia",ECHOROUK NEWS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1824.ts
+#EXTINF:0 group-title="(AR) Arabia",NILE NEWS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/290.ts
+#EXTINF:0 group-title="(AR) Arabia",NUMIDIA NEWS TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1605.ts
+#EXTINF:0 group-title="(AR) Arabia",SHARQIYA NEWS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/91.ts
+#EXTINF:0 group-title="(AR) Arabia",SKY NEWS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/324.ts
+#EXTINF:0 group-title="(AR) Arabia",SUMER NEWS | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/889.ts
+#EXTINF:0 group-title="(DE) Germany",EURONEWS | SD (DE)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/2785.ts
+#EXTINF:0 group-title="(TR) Turkey",BBC EARTH | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6695.ts
+#EXTINF:0 group-title="(TR) Turkey",BLOOMBERG | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6697.ts
+#EXTINF:0 group-title="(TR) Turkey",CNN | SD (TR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1057.ts
+#EXTINF:0 group-title="(TR) Turkey",CNN (1+) | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/3542.ts
+#EXTINF:0 group-title="(TR) Turkey",EURONEWS | SD (TR)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/6766.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ABC NEW | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/847.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC 1 | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1194.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC 2 | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1193.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC FOUR | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/639.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC NEWS | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/638.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC NEWS (1+) | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1191.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC ONE | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/637.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC THREE | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/636.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC TWO | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/635.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BBC3 | SD (UK)
+http://78.142.29.3:2500/live/live:iptv_2/ECRZoYVtK5/1190.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CCTV 9 | SD (UK)
+http://134.19.181.172:8000/live/ddd56/ddd56/1693.ts
 #EXTM3U
 #EXTM3U
-#EXTM3U
-#EXTM3U
+#EXTINF:0 group-title="(AR) Arabia",AL HAYAT CHRISTIAN CHANNEL | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/2252.ts
+#EXTINF:0 group-title="(AR) Arabia",MIRACLE TV | SD (AR)
+http://134.19.181.172:8000/live/ddd56/ddd56/1003.ts
